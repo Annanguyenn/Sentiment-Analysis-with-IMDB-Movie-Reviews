@@ -18,7 +18,7 @@ The labeled training data set consists of 25,000 IMDB movie reviews. There is al
 
 * **testData** - The unlabeled test set. 25,000 rows containing an id, and text for each review. 
 
-** Data columns
+**Data columns**
 * **id** - Unique ID of each review
 * **sentiment** - Sentiment of the review; 1 for positive reviews and 0 for negative reviews
 * **review** - Text of the review
